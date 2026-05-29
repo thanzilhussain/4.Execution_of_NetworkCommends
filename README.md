@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Output
-Netsat:
+Netstat:
 
 <img width="1439" height="1077" alt="image" src="https://github.com/user-attachments/assets/ee3536c7-4876-4083-82d3-4af1a7305047" />
 
